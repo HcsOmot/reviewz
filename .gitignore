@@ -36,3 +36,5 @@
 *.orig
 ###< merge files ###
 
+###< Vagrant and VMs files ###
+/.vagrant
